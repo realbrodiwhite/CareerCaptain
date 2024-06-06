@@ -1,0 +1,3 @@
+[submodule "career-captain-daw/libs/tracktion_engine"]
+	path = career-captain-daw/libs/tracktion_engine
+	url = https://github.com/Tracktion/tracktion_engine.git
