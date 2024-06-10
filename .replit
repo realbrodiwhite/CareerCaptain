@@ -2,7 +2,7 @@
 run = "npm run dev"
 
 # The entrypoint file for your project
-entrypoint = "careercaptain/src/app/page.tsx"
+entrypoint = "src/app/page.tsx"
 
 # Additional settings (optional)
 language = "nodejs"
@@ -11,8 +11,3 @@ working_directory = "."
 
 # Set the default repl shell command
 shell = "bash"
-modules = ["nodejs-20:v8-20230920-bd784b9"]
-
-[[ports]]
-localPort = 3000
-externalPort = 80

@@ -2,7 +2,7 @@
   "name": "career-captain",
   "version": "1.0.0",
   "description": "a robust platform for assisting artist managers in managing their artists",
-  "main": "careercaptain/index.js",
+  "main": "careercaptain/index",
   "repository": "https://github.com/realbrodiwhite/career-captain",
   "scripts": {
     "dev": "next dev",
